@@ -1,0 +1,1 @@
+- I separated Python code into pure notebooks and scripts because didactically notebooks are better for learning. It was with them that I created most of the codes present here.
